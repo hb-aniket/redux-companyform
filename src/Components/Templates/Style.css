@@ -1,0 +1,22 @@
+.tab-body{
+
+min-height: 55vh;
+}
+.Inputs{
+    /* background-color: lightblue; */
+    padding: 30px;
+    /* background-color: aqua; */
+
+}
+
+.customStyle{
+    height: 20px;
+}
+
+.bg{
+    background-color:#F9F9F9;
+    border: 1px dashed lightgrey;
+}
+.cursor{
+    cursor: pointer;
+}
